@@ -15,7 +15,7 @@
   Hi, I'm Samaksh Goswami, Data Scientist, Machine Learning Engineer & Software Developer from India
   <br>
   <br>
-  🎓 I'm currently studying for my Bachelor of Technology (B. Tech.) at GGSIPU University, specializing in AI & ML
+  🎓 I'm currently studying for my Bachelor of Technology (B. Tech.) at GGSIPU University, specializing in IIOT
   <br>
   🎓 I graduated from Rajkiya Pratibha Vikas Vidyalaya, Yamuna Vihar
   <br>
